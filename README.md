@@ -1,17 +1,19 @@
-### Hi there 👋
+## 关于我
 
-<!--
-**wavedanger/wavedanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名前端工程师，目前就职于某互联网电商企业，主要技术栈为Vue，JavaScript，涉猎PC端，移动端，小程序端
 
-Here are some ideas to get you started:
+### 主要技术栈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning ...
+<code><img height="50" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+
+### 我的github状态
+
+[![wavedanger's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavedanger&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavedanger&layout=compact&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
