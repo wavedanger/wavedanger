@@ -12,6 +12,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 
 ---
 
