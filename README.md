@@ -12,8 +12,13 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/stylus-lang/stylus-lang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg"></code>
 ---
 
 ### 我的github状态
