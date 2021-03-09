@@ -19,7 +19,7 @@
 
 ---
 
-### leaning...
+### learning...
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
