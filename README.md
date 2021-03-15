@@ -14,6 +14,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/markdown.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 
