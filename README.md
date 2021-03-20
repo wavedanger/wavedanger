@@ -1,8 +1,8 @@
+[![Page Views Count](https://badges.toozhao.com/badges/01F16VGSMBQHPZCMB3R8W66DNK/green.svg)](https://badges.toozhao.com/stats/01F16VGSMBQHPZCMB3R8W66DNK "Get your own page views count badge on badges.toozhao.com")
+
 ## 关于我
 
 我是一名前端工程师，目前就职于某互联网电商企业，主要技术栈为Vue，JavaScript，涉猎PC端，移动端，小程序端
-
-[![Page Views Count](https://badges.toozhao.com/badges/01F16VGSMBQHPZCMB3R8W66DNK/green.svg)](https://badges.toozhao.com/stats/01F16VGSMBQHPZCMB3R8W66DNK "Get your own page views count badge on badges.toozhao.com")
 
 ---
 
