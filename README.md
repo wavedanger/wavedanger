@@ -27,7 +27,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
 ---
 
 ### 我的github状态
