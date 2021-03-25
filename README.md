@@ -19,7 +19,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wechat/wechat-tile.svg"></code>
 <code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/overwatch-2.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>
 ---
 
 ### learning...
