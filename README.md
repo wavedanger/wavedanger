@@ -31,7 +31,7 @@
 ---
 
 ### 我的github状态
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wavedanger&show_icons=true&count_private=true&theme=gotham" alt="wavedanger" />
 [![wavedanger's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavedanger&hide=prs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavedanger&layout=compact&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
