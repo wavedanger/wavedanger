@@ -31,5 +31,5 @@
 ---
 
 ### 我的github状态
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wavedanger&show_icons=true&count_private=true&theme=gotham" alt="wavedanger" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavedanger&layout=compact&hide=glsl" alt="wavedanger" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wavedanger&show_icons=true&count_private=true&theme=gotham" alt="wavedanger" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavedanger&layout=compact&hide=glsl" alt="wavedanger" />
