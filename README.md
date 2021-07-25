@@ -28,6 +28,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
+<code><img height="50" src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f184e7c3-1912-41b2-b81f-435d1b37c7b4/1ae87107-2943-4ba6-be2b-390ca27c6260.png"></code>
 ---
 
 ### Status
